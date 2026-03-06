@@ -10,3 +10,4 @@ Cyclistic Bike Share Data Analysis Project
 
 ### Rides by Day of Week
 ![Rides by Day](rides_by_day_chart.png)
+![Ride Count](images/ride_count_chart.png)
